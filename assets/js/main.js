@@ -173,7 +173,7 @@
     loop: true,
     centeredSlides: true,
     autoplay: {
-      delay: 5000,
+      delay: 1000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -222,7 +222,7 @@
    */
   window.addEventListener('load', () => {
     AOS.init({
-      duration: 1000,
+      duration: 5000,
       easing: 'ease-in-out',
       once: true,
       mirror: false
