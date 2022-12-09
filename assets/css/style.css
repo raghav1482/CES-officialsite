@@ -943,8 +943,8 @@ color: #fff;
   position: relative;
 }
 #gallery .swiper-pagination .swiper-pagination-bullet {
-  width: 1rem;
-  height: 1rem;
+  width: 0rem;
+  height: 0rem;
   background-color: #fff;
   opacity: 1;
   border: 1px solid #f82249;
