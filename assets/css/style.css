@@ -947,7 +947,7 @@ color: #fff;
   height: 0rem;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #f82249;
+  border: 0px solid #f82249;
   /* border-radius: 50%; */
 }
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
